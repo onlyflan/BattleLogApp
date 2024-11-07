@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Battle Log</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="Champions">Champion</string>
+    <string name="search_placeholder">Tên nguời chơi + #Tag</string>
+    <string name="champion_placeholder">Tên tướng</string>
+
+    <string name="rank_solo">Đơn đôi</string>
+    <string name="rank_flex">Linh hoạt</string>
+    <string name="match_History">Lịch sử đấu</string>
+    <string name="recent_searches">Tìm kiếm gần đây</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="skillText">Kỹ năng</string>
+    <string name="runesText">Bảng bổ trợ</string>
+    <string name="searching">Đang tìm kiếm...</string>
+    <string name="unidentified">Người chơi không tồn tại</string>
+</resources>

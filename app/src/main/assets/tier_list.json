@@ -1,0 +1,2414 @@
+[
+    {
+        "name": "Aatrox",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aatrox.png",
+        "position": "TOP",
+        "winRate": 50.08,
+        "banRate": 11.79,
+        "pickRate": 9.00,
+        "tier": "S"
+    },
+    {
+        "name": "Gragas",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gragas.png",
+        "position": "TOP",
+        "winRate": 50.91,
+        "banRate": 1.09,
+        "pickRate": 6.29,
+        "tier": "S"
+    },
+    {
+        "name": "Renekton",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Renekton.png",
+        "position": "TOP",
+        "winRate": 50.90,
+        "banRate": 6.09,
+        "pickRate": 4.17,
+        "tier": "S"
+    },
+    {
+        "name": "Riven",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Riven.png",
+        "position": "TOP",
+        "winRate": 51.98,
+        "banRate": 4.68,
+        "pickRate": 2.27,
+        "tier": "S"
+    },
+    {
+        "name": "Darius",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Darius.png",
+        "position": "TOP",
+        "winRate": 50.68,
+        "banRate": 5.47,
+        "pickRate": 14.57,
+        "tier": "S"
+    },
+    {
+        "name": "Gnar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gnar.png",
+        "position": "TOP",
+        "winRate": 50.01,
+        "banRate": 6.99,
+        "pickRate": 2.52,
+        "tier": "S"
+    },
+    {
+        "name": "Jax",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jax.png",
+        "position": "TOP",
+        "winRate": 48.90,
+        "banRate": 8.15,
+        "pickRate": 11.08,
+        "tier": "A"
+    },
+    {
+        "name": "Irelia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Irelia.png",
+        "position": "TOP",
+        "winRate": 50.56,
+        "banRate": 5.04,
+        "pickRate": 8.12,
+        "tier": "A"
+    },
+    {
+        "name": "K'Sante",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/KSante.png",
+        "position": "TOP",
+        "winRate": 48.16,
+        "banRate": 8.72,
+        "pickRate": 11.64,
+        "tier": "A"
+    },
+    {
+        "name": "Malphite",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Malphite.png",
+        "position": "TOP",
+        "winRate": 51.18,
+        "banRate": 4.26,
+        "pickRate": 5.79,
+        "tier": "A"
+    },
+    {
+        "name": "Camille",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Camille.png",
+        "position": "TOP",
+        "winRate": 51.23,
+        "banRate": 4.07,
+        "pickRate": 2.60,
+        "tier": "A"
+    },
+    {
+        "name": "Tahm Kench",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TahmKench.png",
+        "position": "TOP",
+        "winRate": 52.84,
+        "banRate": 2.56,
+        "pickRate": 0.84,
+        "tier": "A"
+    },
+    {
+        "name": "Gangplank",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gangplank.png",
+        "position": "TOP",
+        "winRate": 51.76,
+        "banRate": 3.40,
+        "pickRate": 1.46,
+        "tier": "A"
+    },
+    {
+        "name": "Zac",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zac.png",
+        "position": "TOP",
+        "winRate": 54.46,
+        "banRate": 1.59,
+        "pickRate": 1.00,
+        "tier": "A"
+    },
+    {
+        "name": "Ornn",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ornn.png",
+        "position": "TOP",
+        "winRate": 50.88,
+        "banRate": 4.14,
+        "pickRate": 0.55,
+        "tier": "A"
+    },
+    {
+        "name": "Poppy",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Poppy.png",
+        "position": "TOP",
+        "winRate": 53.84,
+        "banRate": 1.61,
+        "pickRate": 2.98,
+        "tier": "B"
+    },
+    {
+        "name": "Volibear",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Volibear.png",
+        "position": "TOP",
+        "winRate": 50.98,
+        "banRate": 3.74,
+        "pickRate": 2.81,
+        "tier": "B"
+    },
+    {
+        "name": "Dr. Mundo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/DrMundo.png",
+        "position": "TOP",
+        "winRate": 51.13,
+        "banRate": 3.60,
+        "pickRate": 1.77,
+        "tier": "B"
+    },
+    {
+        "name": "Cho'Gath",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Chogath.png",
+        "position": "TOP",
+        "winRate": 52.31,
+        "banRate": 2.57,
+        "pickRate": 0.32,
+        "tier": "B"
+    },
+    {
+        "name": "Yone",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yone.png",
+        "position": "TOP",
+        "winRate": 47.17,
+        "banRate": 6.77,
+        "pickRate": 7.85,
+        "tier": "B"
+    },
+    {
+        "name": "Kled",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kled.png",
+        "position": "TOP",
+        "winRate": 55.07,
+        "banRate": 1.19,
+        "pickRate": 0.46,
+        "tier": "B"
+    },
+    {
+        "name": "Teemo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Teemo.png",
+        "position": "TOP",
+        "winRate": 51.55,
+        "banRate": 2.71,
+        "pickRate": 1.02,
+        "tier": "B"
+    },
+    {
+        "name": "Mordekaiser",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Mordekaiser.png",
+        "position": "TOP",
+        "winRate": 49.99,
+        "banRate": 4.08,
+        "pickRate": 5.73,
+        "tier": "B"
+    },
+    {
+        "name": "Shen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shen.png",
+        "position": "TOP",
+        "winRate": 50.41,
+        "banRate": 3.61,
+        "pickRate": 1.02,
+        "tier": "B"
+    },
+    {
+        "name": "Gwen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gwen.png",
+        "position": "TOP",
+        "winRate": 51.09,
+        "banRate": 2.75,
+        "pickRate": 3.04,
+        "tier": "B"
+    },
+    {
+        "name": "Jayce",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jayce.png",
+        "position": "TOP",
+        "winRate": 49.81,
+        "banRate": 3.67,
+        "pickRate": 1.66,
+        "tier": "B"
+    },
+    {
+        "name": "Fiora",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fiora.png",
+        "position": "TOP",
+        "winRate": 49.82,
+        "banRate": 3.56,
+        "pickRate": 6.66,
+        "tier": "B"
+    },
+    {
+        "name": "Cassiopeia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Cassiopeia.png",
+        "position": "TOP",
+        "winRate": 56.14,
+        "banRate": 0.72,
+        "pickRate": 0.43,
+        "tier": "B"
+    },
+    {
+        "name": "Kayle",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kayle.png",
+        "position": "TOP",
+        "winRate": 51.04,
+        "banRate": 2.69,
+        "pickRate": 0.70,
+        "tier": "B"
+    },
+    {
+        "name": "Sett",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sett.png",
+        "position": "TOP",
+        "winRate": 50.13,
+        "banRate": 3.32,
+        "pickRate": 0.84,
+        "tier": "B"
+    },
+    {
+        "name": "Warwick",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Warwick.png",
+        "position": "TOP",
+        "winRate": 51.91,
+        "banRate": 1.98,
+        "pickRate": 0.70,
+        "tier": "B"
+    },
+    {
+        "name": "Garen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Garen.png",
+        "position": "TOP",
+        "winRate": 49.16,
+        "banRate": 3.99,
+        "pickRate": 2.89,
+        "tier": "B"
+    },
+    {
+        "name": "Sejuani",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sejuani.png",
+        "position": "TOP",
+        "winRate": 57.00,
+        "banRate": 0.54,
+        "pickRate": 0.07,
+        "tier": "B"
+    },
+    {
+        "name": "Singed",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Singed.png",
+        "position": "TOP",
+        "winRate": 53.47,
+        "banRate": 1.34,
+        "pickRate": 0.26,
+        "tier": "B"
+    },
+    {
+        "name": "Yasuo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yasuo.png",
+        "position": "TOP",
+        "winRate": 49.72,
+        "banRate": 2.63,
+        "pickRate": 3.30,
+        "tier": "B"
+    },
+    {
+        "name": "Sion",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sion.png",
+        "position": "TOP",
+        "winRate": 50.41,
+        "banRate": 2.77,
+        "pickRate": 0.31,
+        "tier": "B"
+    },
+    {
+        "name": "Urgot",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Urgot.png",
+        "position": "TOP",
+        "winRate": 51.21,
+        "banRate": 2.20,
+        "pickRate": 0.38,
+        "tier": "B"
+    },
+    {
+        "name": "Tryndamere",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Tryndamere.png",
+        "position": "TOP",
+        "winRate": 50.95,
+        "banRate": 2.25,
+        "pickRate": 1.39,
+        "tier": "B"
+    },
+    {
+        "name": "Pantheon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pantheon.png",
+        "position": "TOP",
+        "winRate": 51.18,
+        "banRate": 2.06,
+        "pickRate": 0.52,
+        "tier": "B"
+    },
+    {
+        "name": "Ryze",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ryze.png",
+        "position": "TOP",
+        "winRate": 52.28,
+        "banRate": 1.47,
+        "pickRate": 0.18,
+        "tier": "B"
+    },
+    {
+        "name": "Heimerdinger",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Heimerdinger.png",
+        "position": "TOP",
+        "winRate": 54.46,
+        "banRate": 0.78,
+        "pickRate": 0.38,
+        "tier": "C"
+    },
+    {
+        "name": "Olaf",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Olaf.png",
+        "position": "TOP",
+        "winRate": 51.92,
+        "banRate": 1.48,
+        "pickRate": 0.92,
+        "tier": "C"
+    },
+    {
+        "name": "Illaoi",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Illaoi.png",
+        "position": "TOP",
+        "winRate": 49.44,
+        "banRate": 2.50,
+        "pickRate": 5.59,
+        "tier": "C"
+    },
+    {
+        "name": "Nasus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nasus.png",
+        "position": "TOP",
+        "winRate": 48.80,
+        "banRate": 2.91,
+        "pickRate": 4.46,
+        "tier": "C"
+    },
+    {
+        "name": "Maokai",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Maokai.png",
+        "position": "TOP",
+        "winRate": 54.07,
+        "banRate": 0.78,
+        "pickRate": 0.06,
+        "tier": "C"
+    },
+    {
+        "name": "Trundle",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Trundle.png",
+        "position": "TOP",
+        "winRate": 51.78,
+        "banRate": 1.37,
+        "pickRate": 0.33,
+        "tier": "C"
+    },
+    {
+        "name": "Sylas",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sylas.png",
+        "position": "TOP",
+        "winRate": 47.93,
+        "banRate": 2.32,
+        "pickRate": 2.12,
+        "tier": "C"
+    },
+    {
+        "name": "Wukong",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Wukong.png",
+        "position": "TOP",
+        "winRate": 51.54,
+        "banRate": 1.25,
+        "pickRate": 1.09,
+        "tier": "C"
+    },
+    {
+        "name": "Yorick",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yorick.png",
+        "position": "TOP",
+        "winRate": 49.38,
+        "banRate": 1.98,
+        "pickRate": 2.34,
+        "tier": "C"
+    },
+    {
+        "name": "Galio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Galio.png",
+        "position": "TOP",
+        "winRate": 51.12,
+        "banRate": 1.01,
+        "pickRate": 0.49,
+        "tier": "C"
+    },
+    {
+        "name": "Rumble",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rumble.png",
+        "position": "TOP",
+        "winRate": 48.42,
+        "banRate": 2.16,
+        "pickRate": 0.66,
+        "tier": "C"
+    },
+    {
+        "name": "Akali",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Akali.png",
+        "position": "TOP",
+        "winRate": 48.97,
+        "banRate": 1.61,
+        "pickRate": 1.56,
+        "tier": "C"
+    },
+    {
+        "name": "Vladimir",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vladimir.png",
+        "position": "TOP",
+        "winRate": 48.13,
+        "banRate": 2.05,
+        "pickRate": 1.99,
+        "tier": "C"
+    },
+    {
+        "name": "Vayne",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vayne.png",
+        "position": "TOP",
+        "winRate": 50.47,
+        "banRate": 1.12,
+        "pickRate": 0.57,
+        "tier": "C"
+    },
+    {
+        "name": "Kennen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kennen.png",
+        "position": "TOP",
+        "winRate": 48.24,
+        "banRate": 1.63,
+        "pickRate": 1.18,
+        "tier": "C"
+    },
+    {
+        "name": "Udyr",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Udyr.png",
+        "position": "TOP",
+        "winRate": 48.36,
+        "banRate": 1.43,
+        "pickRate": 2.86,
+        "tier": "C"
+    },
+    {
+        "name": "Swain",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Swain.png",
+        "position": "TOP",
+        "winRate": 48.12,
+        "banRate": 1.50,
+        "pickRate": 0.38,
+        "tier": "C"
+    },
+    {
+        "name": "Quinn",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Quinn.png",
+        "position": "TOP",
+        "winRate": 49.59,
+        "banRate": 0.74,
+        "pickRate": 0.30,
+        "tier": "D"
+    },
+    {
+        "name": "Smolder",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Smolder.png",
+        "position": "TOP",
+        "winRate": 43.19,
+        "banRate": 3.03,
+        "pickRate": 1.71,
+        "tier": "D"
+    },
+    {
+        "name": "Varus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Varus.png",
+        "position": "TOP",
+        "winRate": 47.34,
+        "banRate": 0.75,
+        "pickRate": 0.10,
+        "tier": "D"
+    },
+    {
+        "name": "Ambessa",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ambessa.png",
+        "position": "TOP",
+        "winRate": 39.27,
+        "banRate": 4.38,
+        "pickRate": 20.96,
+        "tier": "D"
+    },
+    {
+        "name": "Graves",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Graves.png",
+        "position": "JUG",
+        "winRate": 51.26,
+        "banRate": 18.35,
+        "pickRate": 21.08,
+        "tier": "S"
+    },
+    {
+        "name": "Lee Sin",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/LeeSin.png",
+        "position": "JUG",
+        "winRate": 50.20,
+        "banRate": 16.46,
+        "pickRate": 11.69,
+        "tier": "S"
+    },
+    {
+        "name": "Skarner",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Skarner.png",
+        "position": "JUG",
+        "winRate": 51.67,
+        "banRate": 6.61,
+        "pickRate": 16.89,
+        "tier": "S"
+    },
+    {
+        "name": "Viego",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Viego.png",
+        "position": "JUG",
+        "winRate": 49.99,
+        "banRate": 14.29,
+        "pickRate": 8.87,
+        "tier": "S"
+    },
+    {
+        "name": "Kha'Zix",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Khazix.png",
+        "position": "JUG",
+        "winRate": 50.66,
+        "banRate": 8.23,
+        "pickRate": 7.94,
+        "tier": "A"
+    },
+    {
+        "name": "Shaco",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shaco.png",
+        "position": "JUG",
+        "winRate": 51.82,
+        "banRate": 3.90,
+        "pickRate": 10.76,
+        "tier": "A"
+    },
+    {
+        "name": "Warwick",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Warwick.png",
+        "position": "JUG",
+        "winRate": 51.68,
+        "banRate": 3.72,
+        "pickRate": 1.32,
+        "tier": "A"
+    },
+    {
+        "name": "Wukong",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MonkeyKing.png",
+        "position": "JUG",
+        "winRate": 51.33,
+        "banRate": 4.17,
+        "pickRate": 0.63,
+        "tier": "A"
+    },
+    {
+        "name": "Jarvan IV",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/JarvanIV.png",
+        "position": "JUG",
+        "winRate": 50.54,
+        "banRate": 5.83,
+        "pickRate": 2.27,
+        "tier": "A"
+    },
+    {
+        "name": "Elise",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Elise.png",
+        "position": "JUG",
+        "winRate": 50.66,
+        "banRate": 5.07,
+        "pickRate": 11.07,
+        "tier": "A"
+    },
+    {
+        "name": "Ekko",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ekko.png",
+        "position": "JUG",
+        "winRate": 51.37,
+        "banRate": 3.52,
+        "pickRate": 0.53,
+        "tier": "A"
+    },
+    {
+        "name": "Nidalee",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nidalee.png",
+        "position": "JUG",
+        "winRate": 50.05,
+        "banRate": 6.34,
+        "pickRate": 5.72,
+        "tier": "A"
+    },
+    {
+        "name": "Kayn",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kayn.png",
+        "position": "JUG",
+        "winRate": 50.08,
+        "banRate": 5.62,
+        "pickRate": 3.76,
+        "tier": "A"
+    },
+    {
+        "name": "Nunu & Willump",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nunu.png",
+        "position": "JUG",
+        "winRate": 51.24,
+        "banRate": 2.82,
+        "pickRate": 0.65,
+        "tier": "A"
+    },
+    {
+        "name": "Zac",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zac.png",
+        "position": "JUG",
+        "winRate": 50.54,
+        "banRate": 3.76,
+        "pickRate": 2.36,
+        "tier": "A"
+    },
+    {
+        "name": "Nocturne",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nocturne.png",
+        "position": "JUG",
+        "winRate": 49.36,
+        "banRate": 6.52,
+        "pickRate": 8.92,
+        "tier": "A"
+    },
+    {
+        "name": "Diana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Diana.png",
+        "position": "JUG",
+        "winRate": 50.09,
+        "banRate": 4.52,
+        "pickRate": 1.11,
+        "tier": "A"
+    },
+    {
+        "name": "Karthus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Karthus.png",
+        "position": "JUG",
+        "winRate": 50.67,
+        "banRate": 3.09,
+        "pickRate": 7.78,
+        "tier": "A"
+    },
+    {
+        "name": "Xin Zhao",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/XinZhao.png",
+        "position": "JUG",
+        "winRate": 50.04,
+        "banRate": 4.43,
+        "pickRate": 0.60,
+        "tier": "A"
+    },
+    {
+        "name": "Hecarim",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hecarim.png",
+        "position": "JUG",
+        "winRate": 49.36,
+        "banRate": 4.32,
+        "pickRate": 3.08,
+        "tier": "B"
+    },
+    {
+        "name": "Ivern",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ivern.png",
+        "position": "JUG",
+        "winRate": 51.66,
+        "banRate": 1.36,
+        "pickRate": 0.57,
+        "tier": "B"
+    },
+    {
+        "name": "Zyra",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zyra.png",
+        "position": "JUG",
+        "winRate": 52.66,
+        "banRate": 0.78,
+        "pickRate": 0.42,
+        "tier": "B"
+    },
+    {
+        "name": "Fiddlesticks",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fiddlesticks.png",
+        "position": "JUG",
+        "winRate": 50.47,
+        "banRate": 2.42,
+        "pickRate": 1.42,
+        "tier": "B"
+    },
+    {
+        "name": "Briar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Briar.png",
+        "position": "JUG",
+        "winRate": 50.03,
+        "banRate": 2.88,
+        "pickRate": 2.55,
+        "tier": "B"
+    },
+    {
+        "name": "Kindred",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kindred.png",
+        "position": "JUG",
+        "winRate": 48.75,
+        "banRate": 5.00,
+        "pickRate": 2.67,
+        "tier": "B"
+    },
+    {
+        "name": "Rek'Sai",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/RekSai.png",
+        "position": "JUG",
+        "winRate": 51.16,
+        "banRate": 1.49,
+        "pickRate": 0.73,
+        "tier": "B"
+    },
+    {
+        "name": "Teemo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Teemo.png",
+        "position": "JUG",
+        "winRate": 49.69,
+        "banRate": 2.93,
+        "pickRate": 2.67,
+        "tier": "B"
+    },
+    {
+        "name": "Shyvana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shyvana.png",
+        "position": "JUG",
+        "winRate": 50.76,
+        "banRate": 1.77,
+        "pickRate": 0.53,
+        "tier": "B"
+    },
+    {
+        "name": "Evelynn",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Evelynn.png",
+        "position": "JUG",
+        "winRate": 50.43,
+        "banRate": 1.91,
+        "pickRate": 3.42,
+        "tier": "B"
+    },
+    {
+        "name": "Talon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Talon.png",
+        "position": "JUG",
+        "winRate": 50.06,
+        "banRate": 2.25,
+        "pickRate": 0.66,
+        "tier": "B"
+    },
+    {
+        "name": "Vi",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vi.png",
+        "position": "JUG",
+        "winRate": 47.66,
+        "banRate": 6.49,
+        "pickRate": 1.59,
+        "tier": "B"
+    },
+    {
+        "name": "Zed",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zed.png",
+        "position": "JUG",
+        "winRate": 50.55,
+        "banRate": 1.17,
+        "pickRate": 2.68,
+        "tier": "B"
+    },
+    {
+        "name": "Amumu",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Amumu.png",
+        "position": "JUG",
+        "winRate": 49.42,
+        "banRate": 2.32,
+        "pickRate": 1.98,
+        "tier": "B"
+    },
+    {
+        "name": "Udyr",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Udyr.png",
+        "position": "JUG",
+        "winRate": 49.09,
+        "banRate": 2.57,
+        "pickRate": 5.16,
+        "tier": "B"
+    },
+    {
+        "name": "Master Yi",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MasterYi.png",
+        "position": "JUG",
+        "winRate": 48.43,
+        "banRate": 3.17,
+        "pickRate": 4.73,
+        "tier": "C"
+    },
+    {
+        "name": "Bel'Veth",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Belveth.png",
+        "position": "JUG",
+        "winRate": 48.92,
+        "banRate": 2.45,
+        "pickRate": 4.22,
+        "tier": "C"
+    },
+    {
+        "name": "Sejuani",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sejuani.png",
+        "position": "JUG",
+        "winRate": 48.76,
+        "banRate": 2.66,
+        "pickRate": 0.36,
+        "tier": "C"
+    },
+    {
+        "name": "Gwen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gwen.png",
+        "position": "JUG",
+        "winRate": 50.11,
+        "banRate": 1.23,
+        "pickRate": 1.37,
+        "tier": "C"
+    },
+    {
+        "name": "Taliyah",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taliyah.png",
+        "position": "JUG",
+        "winRate": 49.40,
+        "banRate": 1.79,
+        "pickRate": 0.63,
+        "tier": "C"
+    },
+    {
+        "name": "Gragas",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gragas.png",
+        "position": "JUG",
+        "winRate": 47.99,
+        "banRate": 3.04,
+        "pickRate": 0.92,
+        "tier": "C"
+    },
+    {
+        "name": "Pantheon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pantheon.png",
+        "position": "JUG",
+        "winRate": 50.98,
+        "banRate": 0.53,
+        "pickRate": 0.13,
+        "tier": "C"
+    },
+    {
+        "name": "Rengar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rengar.png",
+        "position": "JUG",
+        "winRate": 48.46,
+        "banRate": 1.91,
+        "pickRate": 2.69,
+        "tier": "C"
+    },
+    {
+        "name": "Rammus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rammus.png",
+        "position": "JUG",
+        "winRate": 49.41,
+        "banRate": 1.10,
+        "pickRate": 2.09,
+        "tier": "C"
+    },
+    {
+        "name": "Poppy",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Poppy.png",
+        "position": "JUG",
+        "winRate": 49.31,
+        "banRate": 0.95,
+        "pickRate": 1.76,
+        "tier": "C"
+    },
+    {
+        "name": "Qiyana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Qiyana.png",
+        "position": "JUG",
+        "winRate": 50.57,
+        "banRate": 0.53,
+        "pickRate": 0.12,
+        "tier": "C"
+    },
+    {
+        "name": "Volibear",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Volibear.png",
+        "position": "JUG",
+        "winRate": 48.02,
+        "banRate": 1.82,
+        "pickRate": 1.38,
+        "tier": "C"
+    },
+    {
+        "name": "Lillia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lillia.png",
+        "position": "JUG",
+        "winRate": 45.73,
+        "banRate": 3.74,
+        "pickRate": 5.91,
+        "tier": "C"
+    },
+    {
+        "name": "Dr. Mundo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/DrMundo.png",
+        "position": "JUG",
+        "winRate": 47.83,
+        "banRate": 0.52,
+        "pickRate": 0.26,
+        "tier": "C"
+    },
+    {
+        "name": "Ambessa",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ambessa.png",
+        "position": "JUG",
+        "winRate": 35.79,
+        "banRate": 1.19,
+        "pickRate": 5.71,
+        "tier": "D"
+    },
+    {
+        "name": "Sylas",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sylas.png",
+        "position": "mid",
+        "winRate": 50.05,
+        "banRate": 17.41,
+        "pickRate": 16.03,
+        "tier": "S"
+    },
+    {
+        "name": "Vex",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vex.png",
+        "position": "mid",
+        "winRate": 53.47,
+        "banRate": 3.51,
+        "pickRate": 6.42,
+        "tier": "S"
+    },
+    {
+        "name": "Ahri",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ahri.png",
+        "position": "mid",
+        "winRate": 50.61,
+        "banRate": 12.94,
+        "pickRate": 4.58,
+        "tier": "S"
+    },
+    {
+        "name": "Hwei",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hwei.png",
+        "position": "mid",
+        "winRate": 51.50,
+        "banRate": 6.08,
+        "pickRate": 8.79,
+        "tier": "S"
+    },
+    {
+        "name": "Galio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Galio.png",
+        "position": "mid",
+        "winRate": 50.52,
+        "banRate": 9.14,
+        "pickRate": 4.48,
+        "tier": "S"
+    },
+    {
+        "name": "Neeko",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Neeko.png",
+        "position": "mid",
+        "winRate": 54.90,
+        "banRate": 0.81,
+        "pickRate": 0.28,
+        "tier": "A"
+    },
+    {
+        "name": "Cassiopeia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Cassiopeia.png",
+        "position": "mid",
+        "winRate": 53.45,
+        "banRate": 1.67,
+        "pickRate": 1.01,
+        "tier": "A"
+    },
+    {
+        "name": "Zoe",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zoe.png",
+        "position": "mid",
+        "winRate": 52.64,
+        "banRate": 2.51,
+        "pickRate": 1.38,
+        "tier": "A"
+    },
+    {
+        "name": "Katarina",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Katarina.png",
+        "position": "mid",
+        "winRate": 50.43,
+        "banRate": 7.22,
+        "pickRate": 7.67,
+        "tier": "A"
+    },
+    {
+        "name": "Akali",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Akali.png",
+        "position": "mid",
+        "winRate": 50.16,
+        "banRate": 7.27,
+        "pickRate": 7.08,
+        "tier": "A"
+    },
+    {
+        "name": "Taliyah",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taliyah.png",
+        "position": "mid",
+        "winRate": 53.03,
+        "banRate": 1.60,
+        "pickRate": 0.56,
+        "tier": "A"
+    },
+    {
+        "name": "Ryze",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ryze.png",
+        "position": "mid",
+        "winRate": 51.95,
+        "banRate": 2.84,
+        "pickRate": 0.34,
+        "tier": "A"
+    },
+    {
+        "name": "Malzahar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Malzahar.png",
+        "position": "mid",
+        "winRate": 51.77,
+        "banRate": 2.81,
+        "pickRate": 2.44,
+        "tier": "A"
+    },
+    {
+        "name": "Irelia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Irelia.png",
+        "position": "mid",
+        "winRate": 51.26,
+        "banRate": 3.17,
+        "pickRate": 5.15,
+        "tier": "A"
+    },
+    {
+        "name": "Talon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Talon.png",
+        "position": "mid",
+        "winRate": 51.43,
+        "banRate": 3.21,
+        "pickRate": 0.95,
+        "tier": "A"
+    },
+    {
+        "name": "Anivia",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Anivia.png",
+        "position": "mid",
+        "winRate": 52.22,
+        "banRate": 2.11,
+        "pickRate": 1.91,
+        "tier": "A"
+    },
+    {
+        "name": "Ekko",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ekko.png",
+        "position": "mid",
+        "winRate": 52.77,
+        "banRate": 1.50,
+        "pickRate": 0.23,
+        "tier": "A"
+    },
+    {
+        "name": "Qiyana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Qiyana.png",
+        "position": "mid",
+        "winRate": 52.07,
+        "banRate": 2.03,
+        "pickRate": 0.45,
+        "tier": "A"
+    },
+    {
+        "name": "Zed",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zed.png",
+        "position": "mid",
+        "winRate": 49.96,
+        "banRate": 5.42,
+        "pickRate": 12.39,
+        "tier": "A"
+    },
+    {
+        "name": "Syndra",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Syndra.png",
+        "position": "mid",
+        "winRate": 50.05,
+        "banRate": 5.45,
+        "pickRate": 5.96,
+        "tier": "A"
+    },
+    {
+        "name": "Diana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Diana.png",
+        "position": "mid",
+        "winRate": 51.68,
+        "banRate": 2.20,
+        "pickRate": 0.54,
+        "tier": "A"
+    },
+    {
+        "name": "LeBlanc",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/LeBlanc.png",
+        "position": "mid",
+        "winRate": 49.45,
+        "banRate": 5.58,
+        "pickRate": 26.56,
+        "tier": "A"
+    },
+    {
+        "name": "Yasuo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yasuo.png",
+        "position": "mid",
+        "winRate": 48.55,
+        "banRate": 7.84,
+        "pickRate": 12.90,
+        "tier": "B"
+    },
+    {
+        "name": "Aurora",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aurora.png",
+        "position": "mid",
+        "winRate": 50.11,
+        "banRate": 3.25,
+        "pickRate": 11.46,
+        "tier": "B"
+    },
+    {
+        "name": "Yone",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yone.png",
+        "position": "mid",
+        "winRate": 47.74,
+        "banRate": 9.68,
+        "pickRate": 11.29,
+        "tier": "B"
+    },
+    {
+        "name": "Orianna",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Orianna.png",
+        "position": "mid",
+        "winRate": 49.30,
+        "banRate": 5.34,
+        "pickRate": 1.21,
+        "tier": "B"
+    },
+    {
+        "name": "Lux",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lux.png",
+        "position": "mid",
+        "winRate": 49.97,
+        "banRate": 3.17,
+        "pickRate": 1.09,
+        "tier": "B"
+    },
+    {
+        "name": "Lissandra",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lissandra.png",
+        "position": "mid",
+        "winRate": 50.23,
+        "banRate": 2.88,
+        "pickRate": 1.42,
+        "tier": "B"
+    },
+    {
+        "name": "Swain",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Swain.png",
+        "position": "mid",
+        "winRate": 50.26,
+        "banRate": 2.64,
+        "pickRate": 0.67,
+        "tier": "B"
+    },
+    {
+        "name": "Fizz",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fizz.png",
+        "position": "mid",
+        "winRate": 49.53,
+        "banRate": 3.96,
+        "pickRate": 3.86,
+        "tier": "B"
+    },
+    {
+        "name": "Xerath",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Xerath.png",
+        "position": "mid",
+        "winRate": 50.25,
+        "banRate": 2.59,
+        "pickRate": 2.03,
+        "tier": "B"
+    },
+    {
+        "name": "Garen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Garen.png",
+        "position": "mid",
+        "winRate": 53.19,
+        "banRate": 0.53,
+        "pickRate": 0.39,
+        "tier": "B"
+    },
+    {
+        "name": "Veigar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Veigar.png",
+        "position": "mid",
+        "winRate": 50.10,
+        "banRate": 2.72,
+        "pickRate": 0.60,
+        "tier": "B"
+    },
+    {
+        "name": "Vladimir",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vladimir.png",
+        "position": "mid",
+        "winRate": 50.18,
+        "banRate": 2.45,
+        "pickRate": 2.39,
+        "tier": "B"
+    },
+    {
+        "name": "Kayle",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kayle.png",
+        "position": "mid",
+        "winRate": 52.23,
+        "banRate": 0.81,
+        "pickRate": 0.21,
+        "tier": "B"
+    },
+    {
+        "name": "Corki",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Corki.png",
+        "position": "mid",
+        "winRate": 48.69,
+        "banRate": 3.92,
+        "pickRate": 5.36,
+        "tier": "B"
+    },
+    {
+        "name": "Twisted Fate",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TwistedFate.png",
+        "position": "mid",
+        "winRate": 50.11,
+        "banRate": 2.43,
+        "pickRate": 0.24,
+        "tier": "B"
+    },
+    {
+        "name": "Akshan",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Akshan.png",
+        "position": "mid",
+        "winRate": 50.52,
+        "banRate": 1.83,
+        "pickRate": 1.69,
+        "tier": "B"
+    },
+    {
+        "name": "Annie",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Annie.png",
+        "position": "mid",
+        "winRate": 51.13,
+        "banRate": 1.00,
+        "pickRate": 0.18,
+        "tier": "C"
+    },
+    {
+        "name": "Jayce",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jayce.png",
+        "position": "mid",
+        "winRate": 50.82,
+        "banRate": 1.11,
+        "pickRate": 0.50,
+        "tier": "C"
+    },
+    {
+        "name": "Pantheon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pantheon.png",
+        "position": "mid",
+        "winRate": 51.55,
+        "banRate": 0.76,
+        "pickRate": 0.19,
+        "tier": "C"
+    },
+    {
+        "name": "Naafiri",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Naafiri.png",
+        "position": "mid",
+        "winRate": 50.99,
+        "banRate": 0.88,
+        "pickRate": 0.47,
+        "tier": "C"
+    },
+    {
+        "name": "Kassadin",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kassadin.png",
+        "position": "mid",
+        "winRate": 49.19,
+        "banRate": 2.03,
+        "pickRate": 2.34,
+        "tier": "C"
+    },
+    {
+        "name": "Viktor",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Viktor.png",
+        "position": "mid",
+        "winRate": 48.82,
+        "banRate": 2.35,
+        "pickRate": 0.51,
+        "tier": "C"
+    },
+    {
+        "name": "Aurelion Sol",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/AurelionSol.png",
+        "position": "mid",
+        "winRate": 49.05,
+        "banRate": 2.00,
+        "pickRate": 0.96,
+        "tier": "C"
+    },
+    {
+        "name": "Gragas",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gragas.png",
+        "position": "mid",
+        "winRate": 49.81,
+        "banRate": 1.17,
+        "pickRate": 0.35,
+        "tier": "C"
+    },
+    {
+        "name": "Vel'Koz",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Velkoz.png",
+        "position": "mid",
+        "winRate": 49.52,
+        "banRate": 1.26,
+        "pickRate": 0.20,
+        "tier": "C"
+    },
+    {
+        "name": "Cho'Gath",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Chogath.png",
+        "position": "mid",
+        "winRate": 50.68,
+        "banRate": 0.57,
+        "pickRate": 0.07,
+        "tier": "C"
+    },
+    {
+        "name": "Malphite",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Malphite.png",
+        "position": "mid",
+        "winRate": 50.19,
+        "banRate": 0.69,
+        "pickRate": 0.94,
+        "tier": "C"
+    },
+    {
+        "name": "Renekton",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Renekton.png",
+        "position": "mid",
+        "winRate": 48.39,
+        "banRate": 0.54,
+        "pickRate": 0.37,
+        "tier": "D"
+    },
+    {
+        "name": "Azir",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Azir.png",
+        "position": "mid",
+        "winRate": 46.26,
+        "banRate": 1.52,
+        "pickRate": 0.22,
+        "tier": "D"
+    },
+    {
+        "name": "Smolder",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Smolder.png",
+        "position": "mid",
+        "winRate": 43.62,
+        "banRate": 3.65,
+        "pickRate": 2.06,
+        "tier": "D"
+    },
+    {
+        "name": "Ziggs",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ziggs.png",
+        "position": "mid",
+        "winRate": 46.87,
+        "banRate": 0.55,
+        "pickRate": 0.20,
+        "tier": "D"
+    },
+    {
+        "name": "Tristana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Tristana.png",
+        "position": "mid",
+        "winRate": 44.99,
+        "banRate": 0.75,
+        "pickRate": 0.75,
+        "tier": "D"
+    },
+    {
+        "name": "Kog'Maw",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/KogMaw.png",
+        "position": "ADC",
+        "winRate": 53.08,
+        "banRate": 23.60,
+        "pickRate": 6.74,
+        "tier": "S"
+    },
+    {
+        "name": "Nilah",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nilah.png",
+        "position": "ADC",
+        "winRate": 55.11,
+        "banRate": 3.02,
+        "pickRate": 1.61,
+        "tier": "S"
+    },
+    {
+        "name": "Caitlyn",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Caitlyn.png",
+        "position": "ADC",
+        "winRate": 50.39,
+        "banRate": 17.01,
+        "pickRate": 20.25,
+        "tier": "S"
+    },
+    {
+        "name": "Corki",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Corki.png",
+        "position": "ADC",
+        "winRate": 51.41,
+        "banRate": 14.27,
+        "pickRate": 10.32,
+        "tier": "S"
+    },
+    {
+        "name": "Ashe",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ashe.png",
+        "position": "ADC",
+        "winRate": 50.28,
+        "banRate": 15.97,
+        "pickRate": 20.72,
+        "tier": "S"
+    },
+    {
+        "name": "Jhin",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jhin.png",
+        "position": "ADC",
+        "winRate": 50.50,
+        "banRate": 4.19,
+        "pickRate": 18.66,
+        "tier": "S"
+    },
+    {
+        "name": "Jinx",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jinx.png",
+        "position": "ADC",
+        "winRate": 50.38,
+        "banRate": 1.50,
+        "pickRate": 14.20,
+        "tier": "S"
+    },
+    {
+        "name": "Swain",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Swain.png",
+        "position": "ADC",
+        "winRate": 53.71,
+        "banRate": 0.37,
+        "pickRate": 1.44,
+        "tier": "S"
+    },
+    {
+        "name": "Kai'Sa",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kaisa.png",
+        "position": "ADC",
+        "winRate": 48.70,
+        "banRate": 5.16,
+        "pickRate": 16.80,
+        "tier": "A"
+    },
+    {
+        "name": "Draven",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Draven.png",
+        "position": "ADC",
+        "winRate": 50.73,
+        "banRate": 20.83,
+        "pickRate": 4.77,
+        "tier": "A"
+    },
+    {
+        "name": "Hwei",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hwei.png",
+        "position": "ADC",
+        "winRate": 53.25,
+        "banRate": 1.26,
+        "pickRate": 0.86,
+        "tier": "A"
+    },
+    {
+        "name": "Seraphine",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Seraphine.png",
+        "position": "ADC",
+        "winRate": 52.45,
+        "banRate": 0.49,
+        "pickRate": 1.38,
+        "tier": "A"
+    },
+    {
+        "name": "Xayah",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Xayah.png",
+        "position": "ADC",
+        "winRate": 49.64,
+        "banRate": 0.98,
+        "pickRate": 7.51,
+        "tier": "B"
+    },
+    {
+        "name": "Varus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Varus.png",
+        "position": "ADC",
+        "winRate": 49.52,
+        "banRate": 1.05,
+        "pickRate": 7.52,
+        "tier": "B"
+    },
+    {
+        "name": "Tristana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Tristana.png",
+        "position": "ADC",
+        "winRate": 50.84,
+        "banRate": 0.33,
+        "pickRate": 3.41,
+        "tier": "B"
+    },
+    {
+        "name": "Lucian",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lucian.png",
+        "position": "ADC",
+        "winRate": 49.92,
+        "banRate": 1.00,
+        "pickRate": 5.27,
+        "tier": "C"
+    },
+    {
+        "name": "Ziggs",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ziggs.png",
+        "position": "ADC",
+        "winRate": 50.97,
+        "banRate": 1.00,
+        "pickRate": 2.77,
+        "tier": "C"
+    },
+    {
+        "name": "Ezreal",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ezreal.png",
+        "position": "ADC",
+        "winRate": 48.19,
+        "banRate": 13.25,
+        "pickRate": 4.75,
+        "tier": "B"
+    },
+    {
+        "name": "Sivir",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sivir.png",
+        "position": "ADC",
+        "winRate": 50.18,
+        "banRate": 4.05,
+        "pickRate": 0.67,
+        "tier": "B"
+    },
+    {
+        "name": "Samira",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Samira.png",
+        "position": "ADC",
+        "winRate": 50.30,
+        "banRate": 3.54,
+        "pickRate": 4.81,
+        "tier": "B"
+    },
+    {
+        "name": "Vayne",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vayne.png",
+        "position": "ADC",
+        "winRate": 49.08,
+        "banRate": 4.82,
+        "pickRate": 2.48,
+        "tier": "B"
+    },
+    {
+        "name": "Zeri",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zeri.png",
+        "position": "ADC",
+        "winRate": 48.86,
+        "banRate": 4.62,
+        "pickRate": 0.46,
+        "tier": "C"
+    },
+    {
+        "name": "Brand",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Brand.png",
+        "position": "ADC",
+        "winRate": 52.18,
+        "banRate": 0.59,
+        "pickRate": 0.34,
+        "tier": "C"
+    },
+    {
+        "name": "Aphelios",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aphelios.png",
+        "position": "ADC",
+        "winRate": 47.90,
+        "banRate": 5.90,
+        "pickRate": 0.71,
+        "tier": "C"
+    },
+    {
+        "name": "Veigar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Veigar.png",
+        "position": "ADC",
+        "winRate": 51.23,
+        "banRate": 0.56,
+        "pickRate": 0.13,
+        "tier": "D"
+    },
+    {
+        "name": "Miss Fortune",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MissFortune.png",
+        "position": "ADC",
+        "winRate": 48.24,
+        "banRate": 2.92,
+        "pickRate": 0.28,
+        "tier": "D"
+    },
+    {
+        "name": "Kalista",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kalista.png",
+        "position": "ADC",
+        "winRate": 47.89,
+        "banRate": 3.30,
+        "pickRate": 1.02,
+        "tier": "D"
+    },
+    {
+        "name": "Smolder",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Smolder.png",
+        "position": "ADC",
+        "winRate": 47.29,
+        "banRate": 3.23,
+        "pickRate": 1.85,
+        "tier": "D"
+    },
+    {
+        "name": "Yasuo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yasuo.png",
+        "position": "ADC",
+        "winRate": 48.91,
+        "banRate": 0.90,
+        "pickRate": 1.51,
+        "tier": "D"
+    },
+    {
+        "name": "Twitch",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Twitch.png",
+        "position": "ADC",
+        "winRate": 47.42,
+        "banRate": 2.72,
+        "pickRate": 1.16,
+        "tier": "D"
+    },
+    {
+        "name": "Poppy",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Poppy.png",
+        "position": "SUP",
+        "winRate": 53.54,
+        "banRate": 4.77,
+        "pickRate": 8.74,
+        "tier": "S"
+    },
+    {
+        "name": "Senna",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Senna.png",
+        "position": "SUP",
+        "winRate": 52.30,
+        "banRate": 6.21,
+        "pickRate": 2.74,
+        "tier": "S"
+    },
+    {
+        "name": "Janna",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Janna.png",
+        "position": "SUP",
+        "winRate": 52.72,
+        "banRate": 4.51,
+        "pickRate": 1.69,
+        "tier": "S"
+    },
+    {
+        "name": "Bard",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Bard.png",
+        "position": "SUP",
+        "winRate": 52.34,
+        "banRate": 4.90,
+        "pickRate": 0.72,
+        "tier": "S"
+    },
+    {
+        "name": "Lulu",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lulu.png",
+        "position": "SUP",
+        "winRate": 50.15,
+        "banRate": 12.49,
+        "pickRate": 12.22,
+        "tier": "S"
+    },
+    {
+        "name": "Pyke",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pyke.png",
+        "position": "SUP",
+        "winRate": 50.21,
+        "banRate": 10.38,
+        "pickRate": 29.82,
+        "tier": "S"
+    },
+    {
+        "name": "Taric",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taric.png",
+        "position": "SUP",
+        "winRate": 54.44,
+        "banRate": 1.45,
+        "pickRate": 0.24,
+        "tier": "S"
+    },
+    {
+        "name": "Thresh",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Thresh.png",
+        "position": "SUP",
+        "winRate": 49.67,
+        "banRate": 12.37,
+        "pickRate": 4.90,
+        "tier": "A"
+    },
+    {
+        "name": "Braum",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Braum.png",
+        "position": "SUP",
+        "winRate": 50.95,
+        "banRate": 6.32,
+        "pickRate": 4.48,
+        "tier": "A"
+    },
+    {
+        "name": "Rell",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rell.png",
+        "position": "SUP",
+        "winRate": 50.56,
+        "banRate": 7.40,
+        "pickRate": 6.66,
+        "tier": "A"
+    },
+    {
+        "name": "Tahm Kench",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TahmKench.png",
+        "position": "SUP",
+        "winRate": 52.23,
+        "banRate": 3.14,
+        "pickRate": 1.02,
+        "tier": "B"
+    },
+    {
+        "name": "Karma",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Karma.png",
+        "position": "SUP",
+        "winRate": 50.08,
+        "banRate": 8.16,
+        "pickRate": 2.78,
+        "tier": "B"
+    },
+    {
+        "name": "Nami",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nami.png",
+        "position": "SUP",
+        "winRate": 49.96,
+        "banRate": 8.51,
+        "pickRate": 0.90,
+        "tier": "B"
+    },
+    {
+        "name": "Nautilus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nautilus.png",
+        "position": "SUP",
+        "winRate": 49.68,
+        "banRate": 8.77,
+        "pickRate": 12.07,
+        "tier": "B"
+    },
+    {
+        "name": "Rakan",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rakan.png",
+        "position": "SUP",
+        "winRate": 50.17,
+        "banRate": 7.19,
+        "pickRate": 0.92,
+        "tier": "B"
+    },
+    {
+        "name": "Lux",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lux.png",
+        "position": "SUP",
+        "winRate": 49.97,
+        "banRate": 6.72,
+        "pickRate": 2.27,
+        "tier": "B"
+    },
+    {
+        "name": "Vel'Koz",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Velkoz.png",
+        "position": "SUP",
+        "winRate": 51.45,
+        "banRate": 3.28,
+        "pickRate": 0.51,
+        "tier": "B"
+    },
+    {
+        "name": "Ezreal",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ezreal.png",
+        "position": "ADC",
+        "winRate": 48.19,
+        "banRate": 13.25,
+        "pickRate": 4.75,
+        "tier": "B"
+    },
+    {
+        "name": "Sivir",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sivir.png",
+        "position": "ADC",
+        "winRate": 50.18,
+        "banRate": 4.05,
+        "pickRate": 0.67,
+        "tier": "B"
+    },
+    {
+        "name": "Samira",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Samira.png",
+        "position": "ADC",
+        "winRate": 50.30,
+        "banRate": 3.54,
+        "pickRate": 4.81,
+        "tier": "B"
+    },
+    {
+        "name": "Vayne",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vayne.png",
+        "position": "ADC",
+        "winRate": 49.08,
+        "banRate": 4.82,
+        "pickRate": 2.48,
+        "tier": "B"
+    },
+    {
+        "name": "Zeri",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zeri.png",
+        "position": "ADC",
+        "winRate": 48.86,
+        "banRate": 4.62,
+        "pickRate": 0.46,
+        "tier": "C"
+    },
+    {
+        "name": "Brand",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Brand.png",
+        "position": "ADC",
+        "winRate": 52.18,
+        "banRate": 0.59,
+        "pickRate": 0.34,
+        "tier": "C"
+    },
+    {
+        "name": "Aphelios",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aphelios.png",
+        "position": "ADC",
+        "winRate": 47.90,
+        "banRate": 5.90,
+        "pickRate": 0.71,
+        "tier": "C"
+    },
+    {
+        "name": "Veigar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Veigar.png",
+        "position": "ADC",
+        "winRate": 51.23,
+        "banRate": 0.56,
+        "pickRate": 0.13,
+        "tier": "D"
+    },
+    {
+        "name": "Miss Fortune",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MissFortune.png",
+        "position": "ADC",
+        "winRate": 48.24,
+        "banRate": 2.92,
+        "pickRate": 0.28,
+        "tier": "D"
+    },
+    {
+        "name": "Kalista",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kalista.png",
+        "position": "ADC",
+        "winRate": 47.89,
+        "banRate": 3.30,
+        "pickRate": 1.02,
+        "tier": "D"
+    },
+    {
+        "name": "Smolder",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Smolder.png",
+        "position": "ADC",
+        "winRate": 47.29,
+        "banRate": 3.23,
+        "pickRate": 1.85,
+        "tier": "D"
+    },
+    {
+        "name": "Yasuo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yasuo.png",
+        "position": "ADC",
+        "winRate": 48.91,
+        "banRate": 0.90,
+        "pickRate": 1.51,
+        "tier": "D"
+    },
+    {
+        "name": "Twitch",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Twitch.png",
+        "position": "ADC",
+        "winRate": 47.42,
+        "banRate": 2.72,
+        "pickRate": 1.16,
+        "tier": "D"
+    },
+    {
+        "name": "Poppy",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Poppy.png",
+        "position": "SUP",
+        "winRate": 53.54,
+        "banRate": 4.77,
+        "pickRate": 8.74,
+        "tier": "S"
+    },
+    {
+        "name": "Senna",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Senna.png",
+        "position": "SUP",
+        "winRate": 52.30,
+        "banRate": 6.21,
+        "pickRate": 2.74,
+        "tier": "S"
+    },
+    {
+        "name": "Janna",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Janna.png",
+        "position": "SUP",
+        "winRate": 52.72,
+        "banRate": 4.51,
+        "pickRate": 1.69,
+        "tier": "S"
+    },
+    {
+        "name": "Bard",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Bard.png",
+        "position": "SUP",
+        "winRate": 52.34,
+        "banRate": 4.90,
+        "pickRate": 0.72,
+        "tier": "S"
+    },
+    {
+        "name": "Lulu",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lulu.png",
+        "position": "SUP",
+        "winRate": 50.15,
+        "banRate": 12.49,
+        "pickRate": 12.22,
+        "tier": "S"
+    },
+    {
+        "name": "Pyke",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pyke.png",
+        "position": "SUP",
+        "winRate": 50.21,
+        "banRate": 10.38,
+        "pickRate": 29.82,
+        "tier": "S"
+    },
+    {
+        "name": "Taric",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taric.png",
+        "position": "SUP",
+        "winRate": 54.44,
+        "banRate": 1.45,
+        "pickRate": 0.24,
+        "tier": "S"
+    },
+    {
+        "name": "Thresh",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Thresh.png",
+        "position": "SUP",
+        "winRate": 49.67,
+        "banRate": 12.37,
+        "pickRate": 4.90,
+        "tier": "A"
+    },
+    {
+        "name": "Braum",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Braum.png",
+        "position": "SUP",
+        "winRate": 50.95,
+        "banRate": 6.32,
+        "pickRate": 4.48,
+        "tier": "A"
+    },
+    {
+        "name": "Rell",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rell.png",
+        "position": "SUP",
+        "winRate": 50.56,
+        "banRate": 7.40,
+        "pickRate": 6.66,
+        "tier": "A"
+    },
+    {
+        "name": "Tahm Kench",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TahmKench.png",
+        "position": "SUP",
+        "winRate": 52.23,
+        "banRate": 3.14,
+        "pickRate": 1.02,
+        "tier": "B"
+    },
+    {
+        "name": "Karma",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Karma.png",
+        "position": "SUP",
+        "winRate": 50.08,
+        "banRate": 8.16,
+        "pickRate": 2.78,
+        "tier": "B"
+    },
+    {
+        "name": "Nami",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nami.png",
+        "position": "SUP",
+        "winRate": 49.96,
+        "banRate": 8.51,
+        "pickRate": 0.90,
+        "tier": "B"
+    },
+    {
+        "name": "Nautilus",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nautilus.png",
+        "position": "SUP",
+        "winRate": 49.68,
+        "banRate": 8.77,
+        "pickRate": 12.07,
+        "tier": "B"
+    },
+    {
+        "name": "Rakan",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rakan.png",
+        "position": "SUP",
+        "winRate": 50.17,
+        "banRate": 7.19,
+        "pickRate": 0.92,
+        "tier": "B"
+    },
+    {
+        "name": "Lux",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lux.png",
+        "position": "SUP",
+        "winRate": 49.97,
+        "banRate": 6.72,
+        "pickRate": 2.27,
+        "tier": "B"
+    },
+    {
+        "name": "Vel'Koz",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Velkoz.png",
+        "position": "SUP",
+        "winRate": 51.45,
+        "banRate": 3.28,
+        "pickRate": 0.51,
+        "tier": "B"
+    },
+    {
+        "name": "Maokai",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Maokai.png",
+        "position": "SUP",
+        "winRate": 51.97,
+        "banRate": 2.34,
+        "pickRate": 0.18,
+        "tier": "A"
+    },
+    {
+        "name": "Blitzcrank",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Blitzcrank.png",
+        "position": "SUP",
+        "winRate": 49.49,
+        "banRate": 6.65,
+        "pickRate": 18.61,
+        "tier": "A"
+    },
+    {
+        "name": "Milio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Milio.png",
+        "position": "SUP",
+        "winRate": 50.12,
+        "banRate": 5.33,
+        "pickRate": 2.83,
+        "tier": "A"
+    },
+    {
+        "name": "Leona",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Leona.png",
+        "position": "SUP",
+        "winRate": 49.28,
+        "banRate": 6.14,
+        "pickRate": 7.14,
+        "tier": "A"
+    },
+    {
+        "name": "Soraka",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Soraka.png",
+        "position": "SUP",
+        "winRate": 50.23,
+        "banRate": 3.95,
+        "pickRate": 1.28,
+        "tier": "A"
+    },
+    {
+        "name": "Seraphine",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Seraphine.png",
+        "position": "SUP",
+        "winRate": 50.12,
+        "banRate": 4.11,
+        "pickRate": 1.41,
+        "tier": "A"
+    },
+    {
+        "name": "Alistar",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Alistar.png",
+        "position": "SUP",
+        "winRate": 49.73,
+        "banRate": 4.34,
+        "pickRate": 1.53,
+        "tier": "B"
+    },
+    {
+        "name": "Xerath",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Xerath.png",
+        "position": "SUP",
+        "winRate": 49.65,
+        "banRate": 3.89,
+        "pickRate": 3.00,
+        "tier": "B"
+    },
+    {
+        "name": "Zilean",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zilean.png",
+        "position": "SUP",
+        "winRate": 50.46,
+        "banRate": 2.29,
+        "pickRate": 0.66,
+        "tier": "B"
+    },
+    {
+        "name": "Neeko",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Neeko.png",
+        "position": "SUP",
+        "winRate": 49.95,
+        "banRate": 2.51,
+        "pickRate": 0.87,
+        "tier": "B"
+    },
+    {
+        "name": "Pantheon",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pantheon.png",
+        "position": "SUP",
+        "winRate": 50.54,
+        "banRate": 1.71,
+        "pickRate": 0.43,
+        "tier": "B"
+    },
+    {
+        "name": "Sona",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sona.png",
+        "position": "SUP",
+        "winRate": 50.00,
+        "banRate": 2.28,
+        "pickRate": 0.09,
+        "tier": "B"
+    },
+    {
+        "name": "Renata Glasc",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Renata.png",
+        "position": "SUP",
+        "winRate": 48.64,
+        "banRate": 4.05,
+        "pickRate": 0.53,
+        "tier": "B"
+    },
+    {
+        "name": "Camille",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Camille.png",
+        "position": "SUP",
+        "winRate": 52.10,
+        "banRate": 0.71,
+        "pickRate": 0.45,
+        "tier": "B"
+    },
+    {
+        "name": "Zyra",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zyra.png",
+        "position": "SUP",
+        "winRate": 49.34,
+        "banRate": 2.79,
+        "pickRate": 1.49,
+        "tier": "B"
+    },
+    {
+        "name": "Morgana",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Morgana.png",
+        "position": "SUP",
+        "winRate": 48.55,
+        "banRate": 3.06,
+        "pickRate": 9.13,
+        "tier": "B"
+    },
+    {
+        "name": "LeBlanc",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/LeBlanc.png",
+        "position": "SUP",
+        "winRate": 50.26,
+        "banRate": 0.85,
+        "pickRate": 0.39,
+        "tier": "B"
+    },
+    {
+        "name": "Zac",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zac.png",
+        "position": "SUP",
+        "winRate": 50.74,
+        "banRate": 0.77,
+        "pickRate": 0.48,
+        "tier": "C"
+    },
+    {
+        "name": "Galio",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Galio.png",
+        "position": "SUP",
+        "winRate": 49.63,
+        "banRate": 1.19,
+        "pickRate": 0.58,
+        "tier": "C"
+    },
+    {
+        "name": "Yuumi",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yuumi.png",
+        "position": "SUP",
+        "winRate": 47.03,
+        "banRate": 4.36,
+        "pickRate": 5.87,
+        "tier": "C"
+    },
+    {
+        "name": "Brand",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Brand.png",
+        "position": "SUP",
+        "winRate": 48.78,
+        "banRate": 1.70,
+        "pickRate": 0.96,
+        "tier": "C"
+    },
+    {
+        "name": "Shaco",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shaco.png",
+        "position": "SUP",
+        "winRate": 48.52,
+        "banRate": 1.48,
+        "pickRate": 4.04,
+        "tier": "C"
+    },
+    {
+        "name": "Swain",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Swain.png",
+        "position": "SUP",
+        "winRate": 46.96,
+        "banRate": 3.24,
+        "pickRate": 0.82,
+        "tier": "C"
+    },
+    {
+        "name": "Shen",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shen.png",
+        "position": "SUP",
+        "winRate": 49.57,
+        "banRate": 0.72,
+        "pickRate": 0.20,
+        "tier": "C"
+    },
+    {
+        "name": "Teemo",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Teemo.png",
+        "position": "SUP",
+        "winRate": 49.65,
+        "banRate": 0.50,
+        "pickRate": 0.45,
+        "tier": "C"
+    },
+    {
+        "name": "Zoe",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zoe.png",
+        "position": "SUP",
+        "winRate": 48.20,
+        "banRate": 0.83,
+        "pickRate": 0.45,
+        "tier": "C"
+    },
+    {
+        "name": "Hwei",
+        "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hwei.png",
+        "position": "SUP",
+        "winRate": 45.03,
+        "banRate": 0.93,
+        "pickRate": 1.33,
+        "tier": "D"
+    }
+]
